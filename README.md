@@ -63,22 +63,6 @@ A full-featured Expense Tracker Application built with React, Node.js, and MySQL
 	•	MySQL Server
 	•	Vite (comes with project)
 
- ### 📦**Install Dependencies**
-
- # Frontend
-  cd PROJECT-FRONTEND
-  npm install
-
-# Backend
-  cd EXPENSE-TRACKER-BACKEND
-  npm install
-
-### 🧪**Run the Project**
-  # Run Backend
-    npm run dev
-
-# Run Frontend
-  npm run dev
 
  ### 📊**Charts & Visualization**
 	•	Line & Pie Charts with Chart.js and ApexCharts
