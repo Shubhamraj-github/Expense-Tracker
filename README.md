@@ -1,4 +1,4 @@
-# Expense_Tracker
+<img width="1440" alt="Screenshot 2025-05-16 at 1 15 48 PM" src="https://github.com/user-attachments/assets/266f9456-816d-4ce6-9eb1-649f27889ab1" /># Expense_Tracker
 A full-featured Expense Tracker Application built with React, Node.js, and MySQL. It supports two types of users: Admin and User, each with their own dashboards, features, and data access capabilities.
 
 ## 🧑‍💼 User Credentials
@@ -76,37 +76,18 @@ A full-featured Expense Tracker Application built with React, Node.js, and MySQL
 
  ### ✅**Project Screenshot**
 
- **User Side**
+<img width="1440" alt="Screenshot 2025-05-16 at 1 16 06 PM" src="https://github.com/user-attachments/assets/0d0a5b46-b8e3-473d-a243-c52f2550161c" />
+<img width="1439" alt="Screenshot 2025-05-16 at 1 16 16 PM" src="https://github.com/user-attachments/assets/5c08db62-7a9c-42e9-aade-84da7bc9cec3" />
+<img width="1431" alt="Screenshot 2025-05-16 at 1 16 34 PM" src="https://github.com/user-attachments/assets/6c5e4235-c917-446e-956d-aa2a3b5591c1" />
+<img width="1430" alt="Screenshot 2025-05-16 at 1 16 51 PM" src="https://github.com/user-attachments/assets/5a331636-20bb-464d-83e9-92366b052f0a" />
+<img width="1440" alt="Screenshot 2025-05-16 at 1 17 06 PM" src="https://github.com/user-attachments/assets/0816f7e3-804f-4ef6-93a7-2231c6686c83" />
+<img width="1438" alt="Screenshot 2025-05-16 at 1 17 25 PM" src="https://github.com/user-attachments/assets/d3224d0e-7336-4aae-8f9d-702aac71ab2b" />
+<img width="1432" alt="Screenshot 2025-05-16 at 1 17 38 PM" src="https://github.com/user-attachments/assets/48710a0e-658a-40b2-ba92-c9d5d66af7b9" />
+<img width="1435" alt="Screenshot 2025-05-16 at 1 17 53 PM" src="https://github.com/user-attachments/assets/524abc64-1323-4672-917e-6fc07b4b0ec3" />
+<img width="1435" alt="Screenshot 2025-05-16 at 1 18 32 PM" src="https://github.com/user-attachments/assets/df7fd7ac-0594-45ba-a479-c14bad75339b" />
+<img width="1433" alt="Screenshot 2025-05-16 at 1 18 43 PM" src="https://github.com/user-attachments/assets/904304c1-71a1-4ae3-9cac-6373a2797110" />
+<img width="1433" alt="Screenshot 2025-05-16 at 1 19 15 PM" src="https://github.com/user-attachments/assets/9dbbb1c1-73e2-4312-b0b9-ed01a83250dd" />
+<img width="1438" alt="Screenshot 2025-05-16 at 1 19 27 PM" src="https://github.com/user-attachments/assets/e2283181-ff10-4069-bea9-ecb74f5fbaa5" />
 
- <img width="1436" alt="Screenshot 2025-05-15 at 10 58 06 PM" src="https://github.com/user-attachments/assets/c4950224-824b-403d-a16b-9d6634fceb9c" />
-
- <img width="1440" alt="Screenshot 2025-05-15 at 10 59 04 PM" src="https://github.com/user-attachments/assets/f9ab815d-54aa-4c0c-8ad4-6d996367bd52" />
-
- <img width="1196" alt="Screenshot 2025-05-15 at 10 59 31 PM" src="https://github.com/user-attachments/assets/ee5c9fd9-adc2-4c14-a998-14ec99dcbed1" />
-
-<img width="1199" alt="Screenshot 2025-05-15 at 10 59 47 PM" src="https://github.com/user-attachments/assets/6ea5911d-c89d-42c8-8a51-602d3b1a152b" />
-
-<img width="1212" alt="Screenshot 2025-05-15 at 11 00 00 PM" src="https://github.com/user-attachments/assets/30d90b1e-3d8e-4be4-8fbc-48daf81cf374" />
-
-<img width="1201" alt="Screenshot 2025-05-15 at 11 00 15 PM" src="https://github.com/user-attachments/assets/34d1fab8-4414-4dc7-ac93-3434de3d1725" />
-
-<img width="1432" alt="Screenshot 2025-05-15 at 11 00 37 PM" src="https://github.com/user-attachments/assets/122de17b-e2ee-4b8d-88af-65f7f16f4bbd" />
-
-<img width="1439" alt="Screenshot 2025-05-15 at 11 00 50 PM" src="https://github.com/user-attachments/assets/748b06ae-5c6e-44bd-ade6-1b586908de8f" />
-
-<img width="1440" alt="Screenshot 2025-05-15 at 11 01 08 PM" src="https://github.com/user-attachments/assets/de219b80-011d-42db-b1ea-d99b455fe1e1" />
-
-**Admin Side**
-<img width="1436" alt="Screenshot 2025-05-15 at 11 02 33 PM" src="https://github.com/user-attachments/assets/83902158-8806-4548-becf-b7846af47738" />
-
-<img width="1430" alt="Screenshot 2025-05-15 at 11 02 56 PM" src="https://github.com/user-attachments/assets/adcfa740-b2fc-4b24-a678-07bc29f7d9f7" />
-
-<img width="1437" alt="Screenshot 2025-05-15 at 11 03 08 PM" src="https://github.com/user-attachments/assets/9eba32ff-2f13-43f4-ba21-49c1f8aeb3b9" />
-
-
-**For Login/Register**
-<img width="1423" alt="Screenshot 2025-05-15 at 11 03 51 PM" src="https://github.com/user-attachments/assets/80f0ca3b-a2f9-4a39-bd3c-22e5387a1af5" />
-
-<img width="1420" alt="Screenshot 2025-05-15 at 11 04 04 PM" src="https://github.com/user-attachments/assets/17165fc0-870f-4cbf-90e2-d4329f293f53" />
 
 
