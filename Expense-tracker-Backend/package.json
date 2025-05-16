@@ -1,0 +1,46 @@
+{
+  "name": "Expense-tracker-Backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "base64url": "^3.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-rate-limit": "^7.4.1",
+    "force": "^0.0.3",
+    "helmet": "^8.0.0",
+    "http-status-codes": "^2.3.0",
+    "joi": "^17.13.3",
+    "jose": "^5.9.6",
+    "jsonwebtoken": "^9.0.2",
+    "keyv": "^5.1.0",
+    "mv": "^2.1.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.3",
+    "nodemailer": "^6.9.15",
+    "sequelize": "^6.37.4",
+    "sequelize-cli": "^6.6.2",
+    "suncalc3": "^2.0.5",
+    "useragent": "^2.3.0",
+    "uuid": "^10.0.0",
+    "winston": "^3.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

@@ -1,0 +1,19 @@
+.header {
+  @apply bg-primary-Color6 fixed w-full z-[10] py-0 shadow-card;
+}
+
+.mainlogos {
+  @apply w-[270px] lg:w-[333px];
+}
+
+.containDivide {
+  @apply flex items-center justify-between;
+}
+
+.headerSeparate {
+  @apply py-0;
+}
+
+.rightSection {
+  @apply flex flex-row gap-5 items-center;
+}
